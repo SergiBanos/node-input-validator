@@ -36,5 +36,5 @@ module.exports = async function acceptedIf(field, value, args) {
         return false;
     }
 
-    return true;
+    return false;
 };
